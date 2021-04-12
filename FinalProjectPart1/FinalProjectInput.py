@@ -1,5 +1,8 @@
 # Jeremiah Soyebo - 1902930 #
 
+# PLEASE READ - There's an error with the PastServiceDates section, so the code doesn't execute, I think the other 3 are fine so hopefully they can be tested separately.
+# I just needed to make sure I got it in before the deadline. 
+
 import csv
 from datetime import datetime
 
